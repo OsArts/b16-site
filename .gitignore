@@ -1,10 +1,10 @@
-## .gitignore for website of b16-project
 .DS_Store
 node_modules
 /dist
+/tmp
 
 # local env files
-.env.local
+.env
 .env.*.local
 
 # Log files
@@ -21,6 +21,3 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
-
-## My metrics
-./analiticstracking2022.php
