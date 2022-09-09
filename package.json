@@ -1,6 +1,10 @@
 {
   "name": "otkatnoy-baraban-16",
   "version": "5.0.0",
+  "design": {
+    "studio": "OsArt",
+    "webstudio-site": "https://osarts.ru"
+  },
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
