@@ -1,9 +1,13 @@
 {
   "name"            : "Откатной барабан",
   "short_name"      : "baraban16.ru",
+  "version"         : "5.1.0",
+  "date published"  : "2022-09-09 14:43",
   "lang"            : "ru-RU",
-  "developer"       : "OsArt",
-  "website_studio"  : "https://osarts.ru",
+  "developer"       : {
+    "studio"        : "OsArt",
+    "website"       : "https://osarts.ru"
+    },
   "description"     : "Откатной барабан для меха и шкурок: чистки, откатки, отминки, протряхивания. А также чистящие средства 'Eco Clean'. Звоните 8-968-446-49-44. Работаем во всех регионах РФ.",
   "start_url"       : "/",
   "orientation"     : "any",
