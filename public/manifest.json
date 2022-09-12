@@ -1,8 +1,9 @@
 {
   "name"            : "Откатной барабан",
   "short_name"      : "baraban16.ru",
-  "version"         : "5.1.0",
-  "date published"  : "2022-09-09 14:43",
+  "version"         : "5.2.0",
+  "describe"        : "Добавлен просмотр видео в плеере",
+  "date published"  : "2022-09-02 15:48",
   "lang"            : "ru-RU",
   "developer"       : {
     "studio"        : "OsArt",
