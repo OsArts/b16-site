@@ -1,6 +1,7 @@
 {
   "name": "otkatnoy-baraban-16",
-  "version": "5.1.0",
+  "version": "5.2.0",
+  "describe": "Добавлен просмотр видео в плеере",
   "design": {
     "studio": "OsArt",
     "webstudio-site": "https://osarts.ru"
