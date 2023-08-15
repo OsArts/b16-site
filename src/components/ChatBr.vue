@@ -2,7 +2,7 @@
   <section id="chat-bar">
     <h2>Можете вступить в ЧАТ и обсуждать вопросы с Коллегами</h2>
     
-    <div class="box-center">
+    <div class="box-center bg-blue-600">
       <ul>
         <li><a href="https://chat.whatsapp.com/7XccA5zKej44JPuGWaB4nJ">Чат меховщиков в Ватсапе</a></li>
         <li><a href="https://t.me/+FzW13Z-Brn4oAB94">Чат Меховщиков в Телеграмм</a></li>
@@ -37,4 +37,13 @@
     padding: 7px 5px 7px 5px;
     margin-bottom: 45px;
   } */
+
+  a {
+    text-decoration: none;
+    margin: 12px;
+
+  }
+  li {
+    padding-top: 12px;
+  }
 </style>
