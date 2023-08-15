@@ -6,8 +6,8 @@
       <h1>
         <a 
           name="otkatnoi-baraban-dlya-delikatnoy-chistki-meha" 
-          href="#otkatnoi-baraban-dlya-delikatnoy-chistki-meha?from=header&link=h1-header&ver=5.0.0">
-          Oткатной барабан <br> для меха</a>
+          href="#otkatnoi-baraban-dlya-delikatnoy-chistki-meha?from=header&link=h1-header&ver=5.3.1">
+          Oткатной барабан для меха</a>
       </h1>
     </div>
   </div>
@@ -38,6 +38,7 @@ li {
   margin: 0 10px;
 }
 a {
-  color: #42b983;
+  color: #0ea5e9;
+  text-decoration: none;
 }
 </style>
