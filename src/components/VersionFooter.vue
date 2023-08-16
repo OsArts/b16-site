@@ -1,7 +1,7 @@
 <template>
   <div class="vf-txt">
     <!-- TODO: версию и дату брать из переменных или подхватывать автоматом при билде(хук)-->
-    <p> <a href="https://osarts.ru">Сделано в "OsArt"</a> Версия сайта <strong>5.3.1</strong> опубликована 2023-08-07 17:31</p>
+    <p> <a href="https://osarts.ru">Сделано в "OsArt"</a> Версия сайта <strong>5.4.0</strong> опубликована 2023-08-16 21:14 {{junk}}</p>
   </div>
   
 </template>
@@ -11,8 +11,12 @@
     name: "VersionFooter",
     props: {
       msg: String
-    }
+    },
 }
+
+// let fs = require('fs');
+// let junk = fs.readFileSync('../../public/version', 'utf-8');
+
 </script>
 
 <style>
