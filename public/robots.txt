@@ -1,0 +1,50 @@
+#####################################################
+# Site version 3.2.3
+# Made with love from Protvino
+# Studio "OS Arts"
+# Web-site Studio: https://www.osarts.ru
+# Call: +7(915)419-48-05 Viber/WhatsApp
+# Create: 2016-11-28
+# Time: 12:35
+# Update: 2018-12-17
+# Time: 13:48, send
+# For host: https://www.baraban16.ru
+# robots.txt ver. 3.2.3
+# site-map - no
+#####################################################
+
+User-agent: *
+User-agent: Yandex
+Crawl-delay: 7
+User-agent: YandexMobileBot
+User-agent: YandexScreenshotBot
+User-agent: YandexMetrika
+User-agent: YandexNews
+User-agent: YandexBlogs
+User-agent: Mail.RU_Bot
+User-agent: Googlebot-Image
+User-agent: Mediapartners-Google
+User-agent: Googlebot
+Allow: /
+Allow: /img
+Allow: /css
+Disallow: /awstats
+Disallow: /backup
+Disallow: /blocks
+Disallow: /broken
+Disallow: /gulp-ver
+Disallow: /hotfix
+Disallow: /js
+Disallow: /old/
+Disallow: /pages-keys
+Disallow: /pages-keys/**/*
+Disallow: /task
+Disallow: /test-blocks
+Disallow: /test
+Disallow: /versions
+Disallow: /zip
+Disallow: *.htaccess
+Disallow: /bot
+Disallow: /bots
+
+Host: https://www.baraban16.ru
