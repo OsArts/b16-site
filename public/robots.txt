@@ -1,0 +1,50 @@
+#####################################################
+# Site version 5.4.0
+# Made with love from Protvino
+# Studio "OS Art $"
+# Web-site Studio: https://osarts.ru
+# Telegram: https://t.me/vovs03
+# Create: 2016-11-28
+# Time: 12:35
+# Update: 2023-08-16
+# Time: 19:52, send
+# For host: https://baraban16.ru
+# robots.txt
+# site-map - no
+#####################################################
+
+User-agent: *
+User-agent: Yandex
+Crawl-delay: 7
+User-agent: YandexMobileBot
+User-agent: YandexScreenshotBot
+User-agent: YandexMetrika
+User-agent: YandexNews
+User-agent: YandexBlogs
+User-agent: Mail.RU_Bot
+User-agent: Googlebot-Image
+User-agent: Mediapartners-Google
+User-agent: Googlebot
+Allow: /
+Allow: /img
+Allow: /css
+Disallow: /awstats
+Disallow: /backup
+Disallow: /blocks
+Disallow: /broken
+Disallow: /gulp-ver
+Disallow: /hotfix
+Disallow: /js
+Disallow: /old/
+Disallow: /pages-keys
+Disallow: /pages-keys/**/*
+Disallow: /task
+Disallow: /test-blocks
+Disallow: /test
+Disallow: /versions
+Disallow: /zip
+Disallow: *.htaccess
+Disallow: /bot
+Disallow: /bots
+
+Host: https://baraban16.ru
