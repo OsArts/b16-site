@@ -1,5 +1,8 @@
 # CHANGELOG Project b16-site
 
+## v.5.4.2 price spring2024 110k & 125k
+
+
 ## v.5.4.1 price 2024 - SKX-par 120 000 ₽
 > 2024-02-06 UPD 20:13
 

@@ -49,8 +49,9 @@
 
       <p>   
         2024 год <br/>
-        Откатной Барабан <strong class="brand_header__colored">модель: СК-Х</strong><br/>
-        стоимость: <strong>100 000 рублей.</strong>
+        Откатной Барабан <strong class="brand_header__colored">модель: СК-Х</strong><br/> <br/>
+        стоимость: <strong>110 000 рублей.</strong>
+        <br/>
       </p>
       <!-- <br><br> -->
       <PhoneDirector />
@@ -71,7 +72,8 @@
 
       <p><strong class="brand_header__colored">Модель: СК-ХS</strong> <br/>
         с Функцией "Сушильной машины"</p>
-      <p>стоимость: <strong>120 000 рублей.</strong></p>
+      
+      <p>стоимость: <strong>125 000 рублей.</strong></p>
          
       
       <!-- <br><br> -->
