@@ -48,9 +48,10 @@
 </div>
 
       <p>   
-        Август 2023 года <br/>
-        Откатной Барабан <strong class="brand_header__colored">модель: СК-Х</strong><br/>
-        стоимость: <strong>100 000 рублей.</strong>
+        2024 год <br/>
+        Откатной Барабан <strong class="brand_header__colored">модель: СК-Х</strong><br/> <br/>
+        стоимость: <strong>110 000 рублей.</strong>
+        <br/>
       </p>
       <!-- <br><br> -->
       <PhoneDirector />
@@ -71,7 +72,8 @@
 
       <p><strong class="brand_header__colored">Модель: СК-ХS</strong> <br/>
         с Функцией "Сушильной машины"</p>
-      <p>стоимость: <strong>110 000 рублей.</strong></p>
+      
+      <p>стоимость: <strong>125 000 рублей.</strong></p>
          
       
       <!-- <br><br> -->
@@ -100,20 +102,24 @@
     <div id="opilki">
       <h2>
         <a 
-        name="opilki-price-2023-08"
-        href="?from=header&name=opilki-price-2023-08&link=h2-opilki&ver=5.3.1">
+        name="opilki-price-2024-02"
+        href="?from=header&name=opilki-price-2024-02&link=h2-opilki&ver=5.4.1">
         Опилки / Цена / Расход / Фракция / Сроки
         </a>
 
       </h2>
 
-      <div>
-        <p>Август 2023 года</p>
-        <ul>
-          <li>Упаковка: Пакет</li>
-          <li>Вес: 1 КГ Нетто</li>
-          <li>Стоимость: <strong>600 рублей</strong></li>
-        </ul>
+      <div class="pic1">
+        <!-- <p>2024 год</p> -->
+        <div class="nowrap">
+          <ul>
+            <li>2024 год</li>
+            <li>Упаковка: Пакет</li>
+            <li>Вес: 1 КГ Нетто</li>
+            <li>Стоимость: <strong>600 рублей</strong></li>
+          </ul>
+        </div>
+
       </div>
 
 
