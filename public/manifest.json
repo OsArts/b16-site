@@ -1,9 +1,9 @@
 {
   "name"            : "Откатной барабан",
   "short_name"      : "baraban16.ru",
-  "version"         : "5.2.0",
-  "describe"        : "Добавлен просмотр видео в плеере",
-  "date published"  : "2022-09-02 15:48",
+  "version"         : "5.5.0",
+  "describe"        : "Новые цены март-2024 и отключен кэш в браузере",
+  "date published"  : "2024-03-27 17:03",
   "lang"            : "ru-RU",
   "developer"       : {
     "studio"        : "OsArt",
