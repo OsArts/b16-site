@@ -2,6 +2,31 @@
 
 <!-- TODO: вернуть(подключить) метрику -->
 
+## 5.6.0
+
+> 2024-09-03 NewmacOS Monterey1261
+
+- Use `Node 22.7.0`
+- `$ npm install -g npm@10.8.3`
+- `$ npm audit fix --force`
+
+!!! Many bugs
+
+- [x] Return to **NODE_JS LTS** `20.9.0`
+- [x] Filezilla & settings(profile)
+- host: baraban16.ru/public_html/media
+ - Check videos
+
+### Errors (2 missed videos)
+
+-  `error  in ./src/components/VideoSkx.vue?vue&type=template&id=c05e3f56`
+> Module not found: Error: Can't resolve `'../assets/video/otgruzka.mp4'` in '/Users/dwarf/Projects/b16-site/src/components'
+
+> Module not found: Error: Can't resolve `'../assets/video/otgruz2.mp4'` in '/Users/dwarf/Projects/b16-site/src/components'
+
+
+---
+
 ## 5.2.0 Добавить 2 видео для просмотра
 
 Видео не включены в репозиторий

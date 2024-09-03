@@ -50,7 +50,7 @@
       <p>   
         2024 год <br/>
         Откатной Барабан <strong class="brand_header__colored">модель: СК-Х</strong><br/> <br/>
-        стоимость: <strong>110 000 рублей.</strong>
+        стоимость: <strong>120 000 рублей.</strong>
         <br/>
       </p>
       <!-- <br><br> -->
@@ -73,7 +73,7 @@
       <p><strong class="brand_header__colored">Модель: СК-ХS</strong> <br/>
         с Функцией "Сушильной машины"</p>
       
-      <p>стоимость: <strong>125 000 рублей.</strong></p>
+      <p>стоимость: <strong>135 000 рублей.</strong></p>
          
       
       <!-- <br><br> -->
@@ -116,7 +116,7 @@
             <li>2024 год</li>
             <li>Упаковка: Пакет</li>
             <li>Вес: 1 КГ Нетто</li>
-            <li>Стоимость: <strong>600 рублей</strong></li>
+            <li>Стоимость: <strong>700 рублей</strong></li>
           </ul>
         </div>
 
@@ -205,7 +205,7 @@
         <ul>
           <li><strong>Тара:</strong> Бочка</li>
           <li><strong>Вес(НЕТТО):</strong> 18 КГ</li>
-          <li><strong>Стоимость:</strong> <span>9900 ₽</span></li>
+          <li><strong>Стоимость:</strong> <span>12600 ₽</span></li>
         </ul>
       </div>
 
@@ -277,6 +277,28 @@
         </div>
       </ol>
     </div>
+
+    <hr>
+    <div id="koncentrat">
+      <h2>
+        <a 
+        name="koncentrat-price-2024-09"
+        href="?from=header&name=koncentrat-price-2024-02&link=h2-koncentrat&ver=5.6.0">
+        Концентрат / Цена 
+        </a>
+      </h2>
+
+      <div class="koncentrino">
+        <ul>
+          <li><strong>Тара:</strong> Бутыль</li>
+          <li><strong>Объём:</strong> 1 Литр</li>
+          <li><strong>Стоимость:</strong> <span>1800 ₽</span></li>
+        </ul>
+      </div>
+
+
+      <hr>
+    </div>
   </section>
 
 </template>
@@ -331,6 +353,11 @@ li {
   max-width: 47%;
   height: auto;
   margin-left: 20px;
+}
+
+.koncentrino {
+  display: flex;
+  justify-content: center
 }
 
 
