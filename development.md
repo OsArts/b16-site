@@ -1,5 +1,11 @@
 # Как всё обстоит в процессе разработке
 
+## 5.6.1
+устанавливал `Node` use `NixOs`:
+- [x] `$ nix-shell -p nodejs`
+потом по рекомендациям в логе:
+- [x] `$ npm i -g npm@11.0.0`
+
 <!-- TODO: вернуть(подключить) метрику -->
 
 ## 5.6.0
@@ -13,7 +19,7 @@
 !!! Many bugs
 
 - [x] Return to **NODE_JS LTS** `20.9.0`
-- [x] Filezilla & settings(profile)
+- [x] Filezilla & settings(profile)npm -
 - host: baraban16.ru/public_html/media
  - Check videos
 

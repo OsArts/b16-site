@@ -46,11 +46,11 @@
     </a>
 </div>
 </div>
-
+    <h2>2025 год </h2>
       <p>   
-        2024 год <br/>
+        <br/>
         Откатной Барабан <strong class="brand_header__colored">модель: СК-Х</strong><br/> <br/>
-        стоимость: <strong>120 000 рублей.</strong>
+        стоимость: <strong>130 000 рублей.</strong>
         <br/>
       </p>
       <!-- <br><br> -->
@@ -73,7 +73,7 @@
       <p><strong class="brand_header__colored">Модель: СК-ХS</strong> <br/>
         с Функцией "Сушильной машины"</p>
       
-      <p>стоимость: <strong>135 000 рублей.</strong></p>
+      <p>стоимость: <strong>145 000 рублей.</strong></p>
          
       
       <!-- <br><br> -->
@@ -113,7 +113,7 @@
         <!-- <p>2024 год</p> -->
         <div class="nowrap">
           <ul>
-            <li>2024 год</li>
+            <li>2025 год</li>
             <li>Упаковка: Пакет</li>
             <li>Вес: 1 КГ Нетто</li>
             <li>Стоимость: <strong>700 рублей</strong></li>
