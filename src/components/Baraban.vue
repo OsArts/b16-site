@@ -162,6 +162,8 @@
 
           <!-- IMG 2 -->
           <img class="flex-item w45" src="../assets/img/opilki_fraction__300.jpg" />
+        </div>
+      </div>
 
           <ul>
             <li>Готовые, </li>
@@ -170,8 +172,12 @@
             <li>расфасованные.</li>
           </ul>
 
-        <!-- IMG 1 -->
-        <img class="flex-item w45" src="../assets/img/opilki_box__300.jpg" />
+      <div class="pic1">
+        <div class="nowrap">
+          <!-- IMG 1 -->
+          <img class="flex-item w45" src="../assets/img/opilki_box__300.jpg" />
+          <!-- IMG 1 -->
+          <img class="flex-item w75" src="../assets/img/b25_1.webp" />
         </div>
       </div>
 
@@ -240,6 +246,16 @@
           <li><strong>Вес(НЕТТО):</strong> 18 КГ</li>
           <li><strong>Стоимость:</strong> <span>12600 ₽</span></li>
         </ul>
+      </div>
+
+      <div class="pic1">
+        <div class="nowrap">
+          <!-- IMG 3 -->
+          <img class="flex-item w75" src="../assets/img/b25_3.webp" />
+
+          <!-- IMG 2 -->
+          <img class="flex-item w75" src="../assets/img/b25_2.webp" />
+        </div>
       </div>
 
       <p>

@@ -10,6 +10,8 @@
 
 --- 
 
+## Photos resize
+
 Original : `960 X 1280`
 Size : 150.13 KB
 
@@ -34,7 +36,7 @@ Videos: https://github.com/OsArts/b16-site/issues/59
 y25_1_bar.mp4
 y25_2_bar.mp4
 
-## 
+### resize site
 
 https://imageresizer.com/resize/
 WEBP
