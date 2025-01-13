@@ -1,5 +1,47 @@
 # Как всё обстоит в процессе разработке
 
+## Use NIX
+
+> `$nix-shell -p`
+> `$nix-shell -p nodejs`
+
+- [x] `$ npm install -g npm@11.0.0` (`Errors`)
+- `$ npm audit fix`
+
+--- 
+
+## Photos resize
+
+Original : `960 X 1280`
+Size : 150.13 KB
+
+Output: `413 X 550` << 43%
+Size: 22.39 KB
+
+Output: 720 X 960 << 75%
+Size: 44.25 KB
+
+
+
+>> 7
+Original : 960 X 1280
+Size : 147 KB
+Output: 413 X 550
+Size: 20.02 KB
+
+---
+
+Videos: https://github.com/OsArts/b16-site/issues/59
+
+y25_1_bar.mp4
+y25_2_bar.mp4
+
+### resize site
+
+https://imageresizer.com/resize/
+WEBP
+Size: `43 %` = `413` x `550`
+
 ## 5.6.1
 устанавливал `Node` use `NixOs`:
 - [x] `$ nix-shell -p nodejs`

@@ -1,51 +1,53 @@
 <template>
   
-  <section id="price2023-08">
-    <div id="baraban-otkatnoy" class="bg-gradient-to-r from-cyan-500 to-blue-500">
-      <h2>- Сколько стоит Сейчас Откатной Барабан и Буковые Опилки для чистки Меха?</h2>
+<section id="price2023-08">
+  <div id="baraban-otkatnoy" class="bg-gradient-to-r from-cyan-500 to-blue-500">
+    <h2>- Сколько стоит Сейчас Откатной Барабан и Буковые Опилки для чистки Меха?</h2>
 
-      <!-- // ЗАКАЗАТЬ -->
-      <div class="messenger">
+    <!-- // ЗАКАЗАТЬ -->
+    <div class="messenger">
 
-      <h2 class="header__white">Заказать опилки</h2>
-      <div class="telegram_icon">
-        <a href="tg://resolve?domain=PaulVitti" ping>
-        <!-- SVG Telegram-->
-          <svg xmlns="http://www.w3.org/2000/svg" height="80" width="120">
-            <defs>
-              <linearGradient gradientUnits="userSpaceOnUse" y2="51.9" y1="11.536" x2="28.836" x1="46.136" id="a">
-              <stop offset="0" stop-color="#37aee2"/><stop offset="1" stop-color="#1e96c8"/>
-              </linearGradient>
-            </defs>
-            <g transform="scale(0.950)">
-              <circle fill="url(#a)" r="34.6" cx="34.6" cy="34.6"/>
-              <path fill="#fff" d="M14.4 34.3l23.3-9.6c2.3-1 10.1-4.2 10.1-4.2s3.6-1.4 3.3 2c-.1 1.4-.9 6.3-1.7 11.6l-2.5 15.7s-.2 2.3-1.9 2.7c-1.7.4-4.5-1.4-5-1.8-.4-.3-7.5-4.8-10.1-7-.7-.6-1.5-1.8.1-3.2 3.6-3.3 7.9-7.4 10.5-10 1.2-1.2 2.4-4-2.6-.6l-14.1 9.5s-1.6 1-4.6.1c-3-.9-6.5-2.1-6.5-2.1s-2.4-1.5 1.7-3.1z"/>
-            </g>
-          </svg>
-        </a>
-      </div>
+    <h2 class="header__white">Заказать опилки</h2>
+    <div class="telegram_icon">
+      <a href="tg://resolve?domain=PaulVitti" ping>
+      <!-- SVG Telegram-->
+        <svg xmlns="http://www.w3.org/2000/svg" height="80" width="120">
+          <defs>
+            <linearGradient gradientUnits="userSpaceOnUse" y2="51.9" y1="11.536" x2="28.836" x1="46.136" id="a">
+            <stop offset="0" stop-color="#37aee2"/><stop offset="1" stop-color="#1e96c8"/>
+            </linearGradient>
+          </defs>
+          <g transform="scale(0.950)">
+            <circle fill="url(#a)" r="34.6" cx="34.6" cy="34.6"/>
+            <path fill="#fff" d="M14.4 34.3l23.3-9.6c2.3-1 10.1-4.2 10.1-4.2s3.6-1.4 3.3 2c-.1 1.4-.9 6.3-1.7 11.6l-2.5 15.7s-.2 2.3-1.9 2.7c-1.7.4-4.5-1.4-5-1.8-.4-.3-7.5-4.8-10.1-7-.7-.6-1.5-1.8.1-3.2 3.6-3.3 7.9-7.4 10.5-10 1.2-1.2 2.4-4-2.6-.6l-14.1 9.5s-1.6 1-4.6.1c-3-.9-6.5-2.1-6.5-2.1s-2.4-1.5 1.7-3.1z"/>
+          </g>
+        </svg>
+      </a>
+    </div>
 
-<!-- <strong>  пишите мне в WhatsApp,</strong> -->
-<div>
-    <a href="https://wa.me/79684464944" ping>
-    <!-- <i class="fa fa-whatsapp fa-2x" aria-hidden="false"></i> -->
+    <!-- <strong>  пишите мне в WhatsApp,</strong> -->
+    <div>
+      <a href="https://wa.me/79684464944" ping>
+      <!-- <i class="fa fa-whatsapp fa-2x" aria-hidden="false"></i> -->
 
-    <!-- SVG WhatsApp -->
-    <svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 175.216 175.552">
-      <defs>
-        <linearGradient id="b" x1="85.915" x2="86.535" y1="32.567" y2="137.092" gradientUnits="userSpaceOnUse">
-          <stop offset="0" stop-color="#57d163"/>
-          <stop offset="1" stop-color="#23b33a"/>
-        </linearGradient>
-        <filter id="a" width="1.115" height="1.114" x="-.057" y="-.057" color-interpolation-filters="sRGB">
-          <feGaussianBlur stdDeviation="3.531"/>
-        </filter>
-      </defs>
-      <path fill="#b3b3b3" d="m54.532 138.45 2.235 1.324c9.387 5.571 20.15 8.518 31.126 8.523h.023c33.707 0 61.139-27.426 61.153-61.135.006-16.335-6.349-31.696-17.895-43.251A60.75 60.75 0 0 0 87.94 25.983c-33.733 0-61.166 27.423-61.178 61.13a60.98 60.98 0 0 0 9.349 32.535l1.455 2.312-6.179 22.558zm-40.811 23.544L24.16 123.88c-6.438-11.154-9.825-23.808-9.821-36.772.017-40.556 33.021-73.55 73.578-73.55 19.681.01 38.154 7.669 52.047 21.572s21.537 32.383 21.53 52.037c-.018 40.553-33.027 73.553-73.578 73.553h-.032c-12.313-.005-24.412-3.094-35.159-8.954zm0 0" filter="url(#a)"/><path fill="#fff" d="m12.966 161.238 10.439-38.114a73.42 73.42 0 0 1-9.821-36.772c.017-40.556 33.021-73.55 73.578-73.55 19.681.01 38.154 7.669 52.047 21.572s21.537 32.383 21.53 52.037c-.018 40.553-33.027 73.553-73.578 73.553h-.032c-12.313-.005-24.412-3.094-35.159-8.954z"/><path fill="url(#linearGradient1780)" d="M87.184 25.227c-33.733 0-61.166 27.423-61.178 61.13a60.98 60.98 0 0 0 9.349 32.535l1.455 2.312-6.179 22.559 23.146-6.069 2.235 1.324c9.387 5.571 20.15 8.518 31.126 8.524h.023c33.707 0 61.14-27.426 61.153-61.135a60.75 60.75 0 0 0-17.895-43.251 60.75 60.75 0 0 0-43.235-17.929z"/><path fill="url(#b)" d="M87.184 25.227c-33.733 0-61.166 27.423-61.178 61.13a60.98 60.98 0 0 0 9.349 32.535l1.455 2.313-6.179 22.558 23.146-6.069 2.235 1.324c9.387 5.571 20.15 8.517 31.126 8.523h.023c33.707 0 61.14-27.426 61.153-61.135a60.75 60.75 0 0 0-17.895-43.251 60.75 60.75 0 0 0-43.235-17.928z"/><path fill="#fff" fill-rule="evenodd" d="M68.772 55.603c-1.378-3.061-2.828-3.123-4.137-3.176l-3.524-.043c-1.226 0-3.218.46-4.902 2.3s-6.435 6.287-6.435 15.332 6.588 17.785 7.506 19.013 12.718 20.381 31.405 27.75c15.529 6.124 18.689 4.906 22.061 4.6s10.877-4.447 12.408-8.74 1.532-7.971 1.073-8.74-1.685-1.226-3.525-2.146-10.877-5.367-12.562-5.981-2.91-.919-4.137.921-4.746 5.979-5.819 7.206-2.144 1.381-3.984.462-7.76-2.861-14.784-9.124c-5.465-4.873-9.154-10.891-10.228-12.73s-.114-2.835.808-3.751c.825-.824 1.838-2.147 2.759-3.22s1.224-1.84 1.836-3.065.307-2.301-.153-3.22-4.032-10.011-5.666-13.647"/>
-    </svg>
-    </a>
-</div>
-</div>
+      <!-- SVG WhatsApp -->
+      <svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 175.216 175.552">
+        <defs>
+          <linearGradient id="b" x1="85.915" x2="86.535" y1="32.567" y2="137.092" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#57d163"/>
+            <stop offset="1" stop-color="#23b33a"/>
+          </linearGradient>
+          <filter id="a" width="1.115" height="1.114" x="-.057" y="-.057" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="3.531"/>
+          </filter>
+        </defs>
+        <path fill="#b3b3b3" d="m54.532 138.45 2.235 1.324c9.387 5.571 20.15 8.518 31.126 8.523h.023c33.707 0 61.139-27.426 61.153-61.135.006-16.335-6.349-31.696-17.895-43.251A60.75 60.75 0 0 0 87.94 25.983c-33.733 0-61.166 27.423-61.178 61.13a60.98 60.98 0 0 0 9.349 32.535l1.455 2.312-6.179 22.558zm-40.811 23.544L24.16 123.88c-6.438-11.154-9.825-23.808-9.821-36.772.017-40.556 33.021-73.55 73.578-73.55 19.681.01 38.154 7.669 52.047 21.572s21.537 32.383 21.53 52.037c-.018 40.553-33.027 73.553-73.578 73.553h-.032c-12.313-.005-24.412-3.094-35.159-8.954zm0 0" filter="url(#a)"/><path fill="#fff" d="m12.966 161.238 10.439-38.114a73.42 73.42 0 0 1-9.821-36.772c.017-40.556 33.021-73.55 73.578-73.55 19.681.01 38.154 7.669 52.047 21.572s21.537 32.383 21.53 52.037c-.018 40.553-33.027 73.553-73.578 73.553h-.032c-12.313-.005-24.412-3.094-35.159-8.954z"/><path fill="url(#linearGradient1780)" d="M87.184 25.227c-33.733 0-61.166 27.423-61.178 61.13a60.98 60.98 0 0 0 9.349 32.535l1.455 2.312-6.179 22.559 23.146-6.069 2.235 1.324c9.387 5.571 20.15 8.518 31.126 8.524h.023c33.707 0 61.14-27.426 61.153-61.135a60.75 60.75 0 0 0-17.895-43.251 60.75 60.75 0 0 0-43.235-17.929z"/><path fill="url(#b)" d="M87.184 25.227c-33.733 0-61.166 27.423-61.178 61.13a60.98 60.98 0 0 0 9.349 32.535l1.455 2.313-6.179 22.558 23.146-6.069 2.235 1.324c9.387 5.571 20.15 8.517 31.126 8.523h.023c33.707 0 61.14-27.426 61.153-61.135a60.75 60.75 0 0 0-17.895-43.251 60.75 60.75 0 0 0-43.235-17.928z"/><path fill="#fff" fill-rule="evenodd" d="M68.772 55.603c-1.378-3.061-2.828-3.123-4.137-3.176l-3.524-.043c-1.226 0-3.218.46-4.902 2.3s-6.435 6.287-6.435 15.332 6.588 17.785 7.506 19.013 12.718 20.381 31.405 27.75c15.529 6.124 18.689 4.906 22.061 4.6s10.877-4.447 12.408-8.74 1.532-7.971 1.073-8.74-1.685-1.226-3.525-2.146-10.877-5.367-12.562-5.981-2.91-.919-4.137.921-4.746 5.979-5.819 7.206-2.144 1.381-3.984.462-7.76-2.861-14.784-9.124c-5.465-4.873-9.154-10.891-10.228-12.73s-.114-2.835.808-3.751c.825-.824 1.838-2.147 2.759-3.22s1.224-1.84 1.836-3.065.307-2.301-.153-3.22-4.032-10.011-5.666-13.647"/>
+      </svg>
+      </a>
+    </div>
+
+  </div> <!-- class messenger -->
+
     <h2>2025 год </h2>
       <p>   
         <br/>
@@ -56,14 +58,14 @@
       <!-- <br><br> -->
       <PhoneDirector />
 
-      <!-- IMG СК-Х 85к -->
+      <!-- IMG СК-Х 130 к -->
       <div class="pic1">
         <div class="nowrap">
-          <!-- IMG 9 -->
-          <img class="flex-item w50" src="../assets/img/img09.jpeg" />
+          <!-- IMG 2 -->
+          <img class="flex-item w100" src="../assets/img/p_25_2_43p.webp" />
           
           <!-- IMG 13 -->
-          <img class="flex-item w50" src="../assets/img/img13.jpeg" />
+          <img class="flex-item w100" src="../assets/img/p_25_3_43p.webp" />
         </div>
       </div>
 
@@ -81,17 +83,48 @@
       <!-- IMG cушильной машины -->
       <div class="pic1">
         <div class="nowrap">
-          <!-- IMG 1 -->
-          <img class="flex-item w25" src="../assets/img/img02.jpeg" />
+          <!-- IMG 7 -->
+          <img class="flex-item w100" src="../assets/img/p_25_7_43p.webp" />
           
-          <!-- IMG 2 -->
-          <img class="flex-item w25" src="../assets/img/img10.jpeg" />
+          <!-- IMG 6 -->
+          <img class="flex-item w100" src="../assets/img/p_25_6_43p.webp" />
 
-          <!-- IMG 2 -->
-          <img class="flex-item w25" src="../assets/img/img04.jpeg" />
+          <!-- IMG 4 -->
+          <img class="flex-item w100" src="../assets/img/p_25_4_43p.webp" />
+
+          <!-- IMG 4 -->
+          <img class="flex-item w100" src="../assets/img/p_25_5_43p.webp" />
         </div>
       </div>
 
+      <!-- 2025 videos -->
+
+      <section id="vidoe-otgruzka" class="flex w100">
+        <!-- video 1 -->
+        <div class="flex-item">
+          <video
+          src="../assets/video/y25_1_bar.mp4"
+          type="video/mp4"
+          width="360" 
+          height="580"
+          controls="controls"
+          loop
+          class="clip w-full">
+          </video>
+        </div>
+
+        <!-- video 2 -->
+        <div class="flex-item">
+          <video
+          src="../assets/video/y25_2_bar.mp4"
+          type="video/mp4"
+          width="360" 
+          height="580"
+          controls="controls"
+          class="clip w-full">
+          </video>
+        </div>
+      </section>
     </div>
 
 
@@ -129,6 +162,8 @@
 
           <!-- IMG 2 -->
           <img class="flex-item w45" src="../assets/img/opilki_fraction__300.jpg" />
+        </div>
+      </div>
 
           <ul>
             <li>Готовые, </li>
@@ -137,8 +172,12 @@
             <li>расфасованные.</li>
           </ul>
 
-        <!-- IMG 1 -->
-        <img class="flex-item w45" src="../assets/img/opilki_box__300.jpg" />
+      <div class="pic1">
+        <div class="nowrap">
+          <!-- IMG 1 -->
+          <img class="flex-item w45" src="../assets/img/opilki_box__300.jpg" />
+          <!-- IMG 1 -->
+          <img class="flex-item w75" src="../assets/img/b25_1.webp" />
         </div>
       </div>
 
@@ -209,6 +248,16 @@
         </ul>
       </div>
 
+      <div class="pic1">
+        <div class="nowrap">
+          <!-- IMG 3 -->
+          <img class="flex-item w75" src="../assets/img/b25_3.webp" />
+
+          <!-- IMG 2 -->
+          <img class="flex-item w75" src="../assets/img/b25_2.webp" />
+        </div>
+      </div>
+
       <p>
         Есть Мелкие опилки и Крупные.<br/>
         Подходят для ручной чистки Меха и чистки в Откатном барабане.
@@ -265,7 +314,7 @@
         <!-- IMG 03 -->
         <div class="pic1">
           <div class="nowrap">
-            <img class="flex-item w75" src="../assets/img/img03.jpeg" />
+            <img class="flex-item w75" src="../assets/img/p_25_1_43p.webp" />
           </div>
         </div>       
 
