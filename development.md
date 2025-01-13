@@ -1,6 +1,79 @@
 # Как всё обстоит в процессе разработке
 
+## Use NIX
+
+> `$nix-shell -p`
+> `$nix-shell -p nodejs`
+
+- [x] `$ npm install -g npm@11.0.0` (`Errors`)
+- `$ npm audit fix`
+
+--- 
+
+## Photos resize
+
+Original : `960 X 1280`
+Size : 150.13 KB
+
+Output: `413 X 550` << 43%
+Size: 22.39 KB
+
+Output: 720 X 960 << 75%
+Size: 44.25 KB
+
+
+
+>> 7
+Original : 960 X 1280
+Size : 147 KB
+Output: 413 X 550
+Size: 20.02 KB
+
+---
+
+Videos: https://github.com/OsArts/b16-site/issues/59
+
+y25_1_bar.mp4
+y25_2_bar.mp4
+
+### resize site
+
+https://imageresizer.com/resize/
+WEBP
+Size: `43 %` = `413` x `550`
+
+## 5.6.1
+устанавливал `Node` use `NixOs`:
+- [x] `$ nix-shell -p nodejs`
+потом по рекомендациям в логе:
+- [x] `$ npm i -g npm@11.0.0`
+
 <!-- TODO: вернуть(подключить) метрику -->
+
+## 5.6.0
+
+> 2024-09-03 NewmacOS Monterey1261
+
+- Use `Node 22.7.0`
+- `$ npm install -g npm@10.8.3`
+- `$ npm audit fix --force`
+
+!!! Many bugs
+
+- [x] Return to **NODE_JS LTS** `20.9.0`
+- [x] Filezilla & settings(profile)npm -
+- host: baraban16.ru/public_html/media
+ - Check videos
+
+### Errors (2 missed videos)
+
+-  `error  in ./src/components/VideoSkx.vue?vue&type=template&id=c05e3f56`
+> Module not found: Error: Can't resolve `'../assets/video/otgruzka.mp4'` in '/Users/dwarf/Projects/b16-site/src/components'
+
+> Module not found: Error: Can't resolve `'../assets/video/otgruz2.mp4'` in '/Users/dwarf/Projects/b16-site/src/components'
+
+
+---
 
 ## 5.2.0 Добавить 2 видео для просмотра
 
