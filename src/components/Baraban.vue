@@ -7,7 +7,7 @@
     <!-- // ЗАКАЗАТЬ -->
     <div class="messenger">
 
-    <h2 class="header__white">Заказать опилки</h2>
+    <h2 class="header__white">Задать вопрос</h2>
     <div class="telegram_icon">
       <a href="tg://resolve?domain=PaulVitti" ping>
       <!-- SVG Telegram-->
@@ -184,7 +184,7 @@
       <hr>
       <!-- // ЗАКАЗАТЬ -->
       <div class="messenger">
-        <h2 class="header__white">Заказать опилки</h2>
+        <h2 class="header__white">Задать вопрос</h2>
         <div class="telegram_icon">
           <a href="tg://resolve?domain=PaulVitti" ping>
           <!-- SVG Telegram-->
@@ -270,7 +270,7 @@
         <li> Расход Опилок при чистке вручную, примерно 15-20% от массы изделия. Например, для чистки шубы из Норки массой 3 килограмма вручную, понадобится примерно 500-600 грамм опилок. Срок хранения 18 месяцев ( при соблюдении условий хранения).</li>
 
         <div class="messenger">
-            <h2 class="header__white">Заказать опилки</h2>
+            <h2 class="header__white">Задать вопрос</h2>
 
             <div class="telegram_icon">
               <a href="tg://resolve?domain=PaulVitti" ping>
