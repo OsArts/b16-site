@@ -24,3 +24,5 @@ pnpm-debug.log*
 
 # Videos
 /src/assets/video/
+/public/media/y25_1_bar.9d83b455.mp4
+/public/media/y25_2_bar.0bfa4dde.mp4

@@ -1,13 +1,13 @@
 #####################################################
-# Site version 5.4.0
+# Site version 5.7.2
 # Made with love from Protvino
 # Studio "OS Art $"
 # Web-site Studio: https://osarts.ru
 # Telegram: https://t.me/vovs03
 # Create: 2016-11-28
 # Time: 12:35
-# Update: 2023-08-16
-# Time: 19:52, send
+# Update: 2025-02-02
+# Time: 16:52, send
 # For host: https://baraban16.ru
 # robots.txt
 # site-map - no
