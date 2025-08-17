@@ -1,5 +1,13 @@
 # Как всё обстоит в процессе разработке
 
+## Use NVM
+
+- `nvm install 20.9.0` | 24.6.0 (Current 2025-08-17)
+- `nvm use 20.9.0 --default`
+
+- `npm i`
+- `npm run serve`
+
 ## Use NIX
 
 > `$nix-shell -p`
