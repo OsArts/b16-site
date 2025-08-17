@@ -1,5 +1,9 @@
 # CHANGELOG Project b16-site
 
+## v5.7.3 2025-08-17 12:38 13:53
+
+    - scripts/download_videos :four: > ./src/assets/videos/ [4]
+
 ## v5.7.2 2025-02-02 16-22 17:01
 
     + замена 3х заголовков: `Заказать опилки` -> `Задать вопрос`

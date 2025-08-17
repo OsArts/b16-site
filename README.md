@@ -2,7 +2,9 @@
 
 ## Project setup
 
+- Check `node -v` (or install `Node` |> use `nvm` )
 - `npm install`
+- `./scripts/download_videos.sh` << Run script for download videos [seed assets]
 
 ### Compiles and hot-reloads for development
 
