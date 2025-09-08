@@ -149,7 +149,7 @@
             <li>2025 год</li>
             <li>Упаковка: Пакет</li>
             <li>Вес: 1 КГ Нетто</li>
-            <li>Стоимость: <strong>700 рублей</strong></li>
+            <li>Стоимость: <strong>750 ₽</strong></li>
           </ul>
         </div>
 
@@ -243,8 +243,8 @@
 
         <ul>
           <li><strong>Тара:</strong> Бочка</li>
-          <li><strong>Вес(НЕТТО):</strong> 18 КГ</li>
-          <li><strong>Стоимость:</strong> <span>12600 ₽</span></li>
+          <li><strong>Вес(НЕТТО):</strong> 20 КГ</li>
+          <li><strong>Стоимость:</strong> <span>15000 ₽</span></li>
         </ul>
       </div>
 

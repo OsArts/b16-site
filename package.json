@@ -1,8 +1,8 @@
 {
   "name": "otkatnoy-baraban-16",
-  "version": "5.7.3",
+  "version": "5.7.4",
   "describe": "Feature: scripts/download_videos [4]items",
-  "fix-date": "2025-08-17 : 13:47",
+  "fix-date": "2025-09-08 : 15:45",
   "design": {
     "developer": "Vladimir Pavlychev",
     "studio": "OsArt",
