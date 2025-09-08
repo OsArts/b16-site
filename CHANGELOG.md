@@ -1,5 +1,11 @@
 # CHANGELOG Project b16-site
 
+## v5.7.4 2025-09-08 15:35-50(без оплаты)
+
+- ценник на опилки
+1кг 750 ₽
+и бочка 20кг 15000 ₽
+
 ## v5.7.3 2025-08-17 12:38 13:53
 
     - scripts/download_videos :four: > ./src/assets/videos/ [4]
