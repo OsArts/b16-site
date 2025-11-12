@@ -1,5 +1,10 @@
 # Как всё обстоит в процессе разработке
 
+## develop ENV
+
+- `ifconfig | grep inet` >> check argv[1]
+- `bun run serve --host 10.116.150.52`
+
 ## Use NVM
 
 - `nvm install 20.9.0` | 24.6.0 (Current 2025-08-17)

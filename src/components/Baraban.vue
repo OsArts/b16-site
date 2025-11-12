@@ -52,7 +52,7 @@
       <p>   
         <br/>
         Откатной Барабан <strong class="brand_header__colored">модель: СК-Х</strong><br/> <br/>
-        стоимость: <strong>130 000 рублей.</strong>
+        стоимость: <strong>240 000 рублей.</strong>
         <br/>
       </p>
       <!-- <br><br> -->
@@ -75,7 +75,7 @@
       <p><strong class="brand_header__colored">Модель: СК-ХS</strong> <br/>
         с Функцией "Сушильной машины"</p>
       
-      <p>стоимость: <strong>145 000 рублей.</strong></p>
+      <p>стоимость: <strong>265 000 рублей.</strong></p>
          
       
       <!-- <br><br> -->
