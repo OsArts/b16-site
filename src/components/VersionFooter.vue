@@ -1,7 +1,7 @@
 <template>
   <div class="vf-txt">
     <!-- TODO: версию и дату брать из переменных или подхватывать автоматом при билде(хук)-->
-    <p> <a href="https://osarts.ru">Сделано в "OsArt"</a> Версия сайта <strong>5.7.4</strong> опубликована 2025-09-08(пн) 15:45 {{junk}}</p>
+    <p> <a href="https://osarts.ru">Сделано в "OsArt"</a> Версия сайта <strong>5.7.5</strong> опубликована 2025-11-12(ср) 13:45 {{junk}}</p>
   </div>
   
 </template>
