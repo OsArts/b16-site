@@ -5,6 +5,10 @@
 - `ifconfig | grep inet` >> check argv[1]
 - `bun run serve --host 10.116.150.52`
 
+## For builds
+
+- see: `/public/manifest.json` << 🏆 PWA 
+
 ## Use NVM
 
 - `nvm install 20.9.0` | 24.6.0 (Current 2025-08-17)
