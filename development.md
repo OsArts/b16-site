@@ -3,7 +3,7 @@
 ## develop ENV
 
 - `ifconfig | grep inet` >> check argv[1]
-- `bun run serve --host 10.116.150.52`
+- `bun run serve --host 10.59.188.52`
 
 ## For builds
 
