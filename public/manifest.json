@@ -1,16 +1,18 @@
 {
-  "name"            : "Откатной барабан",
+  "name"            : "Откатной барабан 🏆 | Продажы в РФ",
   "short_name"      : "baraban16.ru",
-  "version"         : "5.7.2",
-  "describe"        : "Новые цены февраль-2025",
-  "date published"  : "2025-02-02 16:49",
+  "id"              : "/?kupit-otkatnoy-baraban",
+  "start_url"       : "/?kupit-otkatnoy-baraban",
+  "manifest_id"     : "https://baraban16.ru/?kupit-otkatnoy-baraban",
+  "version"         : "5.7.5",
+  "describe"        : "Новые цены ноябрь-2025",
+  "date published"  : "2025-11-12 16:00",
   "lang"            : "ru-RU",
   "developer"       : {
     "studio"        : "OsArt",
     "website"       : "https://osarts.ru"
     },
   "description"     : "Откатной барабан для меха и шкурок: чистки, откатки, отминки, протряхивания. А также чистящие средства 'Eco Clean'. Звоните 8-968-446-49-44. Работаем во всех регионах РФ.",
-  "start_url"       : "/",
   "orientation"     : "any",
   "display"         : "standalone",
   "theme_color"     : "#ffffff",
