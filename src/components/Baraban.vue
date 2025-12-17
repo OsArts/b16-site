@@ -48,7 +48,7 @@
 
   </div> <!-- class messenger -->
 
-    <h2>2025 год </h2>
+    <h2>2026 год </h2>
       <p>   
         <br/>
         Откатной Барабан <strong class="brand_header__colored">модель: СК-Х</strong><br/> <br/>
@@ -143,13 +143,13 @@
       </h2>
 
       <div class="pic1">
-        <!-- <p>2024 год</p> -->
+        <!-- <p>2026 год</p> -->
         <div class="nowrap">
           <ul>
-            <li>2025 год</li>
+            <li>2026 год</li>
             <li>Упаковка: Пакет</li>
             <li>Вес: 1 КГ Нетто</li>
-            <li>Стоимость: <strong>750 ₽</strong></li>
+            <li>Стоимость: <strong>850 ₽</strong></li>
           </ul>
         </div>
 
@@ -244,7 +244,17 @@
         <ul>
           <li><strong>Тара:</strong> Бочка</li>
           <li><strong>Вес(НЕТТО):</strong> 20 КГ</li>
-          <li><strong>Стоимость:</strong> <span>15000 ₽</span></li>
+          <li><strong>Стоимость:</strong> <span>17000 ₽</span></li>
+        </ul>
+      </div>
+
+      <div id="bochka2">
+        <h2>Опилки буковые в бочке</h2>
+
+        <ul>
+          <li><strong>Тара:</strong> Бочка</li>
+          <li><strong>Вес(НЕТТО):</strong> 25 КГ</li>
+          <li><strong>Стоимость:</strong> <span>21300 ₽</span></li>
         </ul>
       </div>
 
