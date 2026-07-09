@@ -1,5 +1,12 @@
 # CHANGELOG Project b16-site
 
+## v5.7.8 2026-07-09 14:15 - 14:30
+
+  "name": "otkatnoy-baraban-16",
+  "version": "5.7.8",
+  "describe": "Update: price > opilki 25kg 21250 rub",
+  "fix-date": "2026-07-09 : 14:29",
+
 ## v5.7.7 2026-04-09 13:50- 15:30
 
 - год > 2026
