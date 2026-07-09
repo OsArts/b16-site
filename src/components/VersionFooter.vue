@@ -1,7 +1,7 @@
 <template>
   <div class="vf-txt">
     <!-- TODO: версию и дату брать из переменных или подхватывать автоматом при билде(хук)-->
-    <p> <a href="https://osarts.ru">Сделано в "OsArt"</a> Версия сайта <strong>5.7.7</strong> опубликована 2026-04-09(чт) 15:30 {{junk}}</p>
+    <p> <a href="https://osarts.ru">Сделано в "OsArt"</a> Версия сайта <strong>5.7.8</strong> опубликована 2026-07-09(чт) 14:30 {{junk}}</p>
   </div>
   
 </template>
@@ -22,7 +22,7 @@
 <style>
   .vf-txt {
     font-size: xx-small;
-    color:gainsboro;
+    color:rgb(58, 58, 58);
 
   }
 

@@ -1,8 +1,8 @@
 {
   "name": "otkatnoy-baraban-16",
-  "version": "5.7.7",
-  "describe": "Update: price > opilki 850r, + 20kg & 25kg",
-  "fix-date": "2026-04-09 : 15:31",
+  "version": "5.7.8",
+  "describe": "Update: price > opilki 25kg 21250 rub",
+  "fix-date": "2026-07-09 : 14:29",
   "design": {
     "developer": "Vladimir Pavlychev",
     "studio": "OsArt",
