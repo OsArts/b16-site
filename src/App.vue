@@ -2,8 +2,12 @@
   <!--<img alt="Vue logo" src="./assets/logo.png">-->
   <!-- msg="Welcome to Your Vue.js App" -->
   <NavigationBar />
+  <!-- <div class="bg-red-500 text-white p-4">
+    Это должно быть красным
+  </div> -->
   <Baraban />
   <SalesBar />
+  <Concentrat />
   <ChatBr />
   <WordDirector />
   <VersionFooter />
@@ -16,12 +20,14 @@
   import SalesBar from './components/SalesBar.vue'
   import VersionFooter from './components/VersionFooter.vue'
   import WordDirector from './components/WordDirector.vue'
+  import Concentrat from './components/Concentrat.vue'
 
 
   export default {
     name: 'App',
     components: {
       Baraban,
+      Concentrat,
       ChatBr,
       NavigationBar,
       SalesBar,

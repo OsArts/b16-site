@@ -29,6 +29,8 @@
 
 ## Photos resize
 
+> https://imageresizer.com/
+
 Original : `960 X 1280`
 Size : 150.13 KB
 
@@ -60,7 +62,9 @@ WEBP
 Size: `43 %` = `413` x `550`
 
 ## 5.6.1
+
 устанавливал `Node` use `NixOs`:
+
 - [x] `$ nix-shell -p nodejs`
 потом по рекомендациям в логе:
 - [x] `$ npm i -g npm@11.0.0`

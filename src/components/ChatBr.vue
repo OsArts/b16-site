@@ -4,7 +4,7 @@
     
     <div class="box-center bg-blue-600">
       <ul>
-        <li><a href="https://chat.whatsapp.com/7XccA5zKej44JPuGWaB4nJ">Чат меховщиков в Ватсапе</a></li>
+        <!-- <li><a href="https://chat.whatsapp.com/7XccA5zKej44JPuGWaB4nJ">Чат меховщиков в Ватсапе</a></li> -->
         <li><a href="https://t.me/+FzW13Z-Brn4oAB94">Чат Меховщиков в Телеграмм</a></li>
         <p>Присоединяйтесь и Вы!</p>
       </ul>
