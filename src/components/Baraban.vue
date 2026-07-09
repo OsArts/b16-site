@@ -196,7 +196,7 @@
         <ul>
           <li><strong>Тара:</strong> Бочка</li>
           <li><strong>Вес(НЕТТО):</strong> 25 КГ</li>
-          <li><strong>Стоимость:</strong> <span>18 750 ₽</span></li>
+          <li><strong>Стоимость:</strong> <span>21 250 ₽</span></li>
         </ul>
       </div>
 
