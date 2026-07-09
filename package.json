@@ -1,8 +1,8 @@
 {
   "name": "otkatnoy-baraban-16",
-  "version": "5.7.6",
-  "describe": "Update: price > ipilki 850r, + 20kg & 25kg",
-  "fix-date": "2025-12-17 : 16:11",
+  "version": "5.7.7",
+  "describe": "Update: price > opilki 850r, + 20kg & 25kg",
+  "fix-date": "2026-04-09 : 15:31",
   "design": {
     "developer": "Vladimir Pavlychev",
     "studio": "OsArt",
@@ -11,6 +11,7 @@
   },
   "private": true,
   "scripts": {
+    "dev": "vue-cli-service serve",
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "css": "tailwindcss build -i src/main.css -o public/styles.css",
@@ -22,6 +23,7 @@
     "vue": "^3.3.4"
   },
   "devDependencies": {
+    "autoprefixer": "10.4.14",
     "@babel/core": "7.24.3",
     "@babel/eslint-parser": "7.24.1",
     "@vue/cli-plugin-babel": "~5.0.0",
@@ -29,7 +31,7 @@
     "@vue/cli-plugin-vuex": "~5.0.0",
     "@vue/cli-service": "~5.0.0",
     "vue-cli-plugin-tailwind": "~3.0.0",
-    "autoprefixer": "10.4.14",
+    
 
 
     "postcss": "8.4.38",

@@ -15,7 +15,7 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
 
   .c-rng {
     margin-top: 30px;
@@ -32,7 +32,7 @@ export default {
     background-color: rgb(28, 214, 243);
     /*background-color: rgb(181, 7, 155);*/
     /*background-color: rgb(243, 109, 47);*/
-    animation: changeColor 1.8s linear infinite;
+    animation: changeColor 12.8s linear infinite;
     position: relative;
 
   }
@@ -62,15 +62,15 @@ export default {
   } */
 
   from {
-    background-color: rgb(28, 214, 243);
+    background-color: #b317c8;;
     /* width: 300px;
     top: 10px; */
     /* top: 10px; */
-    width: 450px;
+    width: 260px;
   }
  
   to {
-    background-color: #c026d3;
+    background-color: #4c0256;
     /* width: 50px;
     top: 100px; */
     /* top: 14px; */
