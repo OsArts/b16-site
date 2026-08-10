@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "core-js": "3.36.1",
-    "vue": "^3.3.4"
+    "vue": "^3.4.22"
   },
   "devDependencies": {
     "autoprefixer": "10.4.14",
