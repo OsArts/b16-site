@@ -7,8 +7,18 @@
     <!-- MESSENGERS -->
     <div class="messenger">
       <h2 class="header__white">Задать вопрос</h2>
+
+
       <div class="telegram_icon">
         <a href="tg://resolve?domain=PaulVitti" ping>
+
+        <div class="max_icon">
+          <a href="https://max.ru/u/f9LHodD0cOKDIyyoPGf3uoum2qroWbgbLt75_MQo8qhoK62o0CoWLpQjpwc " ping>
+          <!-- MAX image-->
+            <image href="../assets/img/max.webp" />
+            <img class="flex-item w-8" src="../assets/img/max_mes.svg" />
+          </a>
+        </div>  
         <!-- SVG Telegram-->
           <svg xmlns="http://www.w3.org/2000/svg" height="80" width="120">
             <defs>
@@ -24,20 +34,14 @@
         </a>
       </div>
 
-      <div class="max_icon">
-        <a href="https://max.ru/u/f9LHodD0cOKDIyyoPGf3uoum2qroWbgbLt75_MQo8qhoK62o0CoWLpQjpwc " ping>
-        <!-- MAX image-->
-          <image href="../assets/img/max.webp" />
-          <img class="flex-item w-8" src="../assets/img/max_mes.svg" />
-        </a>
-      </div>
+
     </div> <!-- class messenger -->
 
     <h2>2026 год </h2>
       <p>   
         <br/>
         Откатной Барабан <strong class="brand_header__colored">модель: СК-Х</strong><br/> <br/>
-        стоимость: <strong>130 000 рублей.</strong>
+        стоимость: <strong>140 000 рублей.</strong>
         <br/>
       </p>
       <!-- <br><br> -->
@@ -403,7 +407,7 @@ flex-direction: column;
 /* background-color: #2767d5; */
 background: linear-gradient(to right, blue, pink);
 margin-left: 6%;
-height: 84%;
+height: 64%;
 width: 88%;
 border-radius: 25px
 }

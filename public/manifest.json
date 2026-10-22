@@ -1,12 +1,12 @@
 {
   "name"            : "Откатной барабан 🏆 | Продажы в РФ",
   "short_name"      : "baraban16.ru",
-  "id"              : "/?kupit-otkatnoy-baraban",
-  "start_url"       : "/?kupit-otkatnoy-baraban",
+  "id"              : "kupit-otkatnoy-baraban-140k",
+  "start_url"       : "/?kupit-otkatnoy-baraban&price=140000",
   "manifest_id"     : "https://baraban16.ru/?kupit-otkatnoy-baraban",
-  "version"         : "5.7.6",
-  "describe"        : "Новые цены декабрь-2025",
-  "date published"  : "2025-12-17 16:30",
+  "version"         : "5.7.9",
+  "describe"        : "Новые цены октябрь-2026",
+  "date published"  : "2026-10-22 13:30",
   "lang"            : "ru-RU",
   "developer"       : {
     "studio"        : "OsArt",
