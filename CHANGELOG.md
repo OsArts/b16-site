@@ -1,5 +1,12 @@
 # CHANGELOG Project b16-site
 
+## v5.7.9 2026-10-22 13:09 - 13:30
+
+  "name": "otkatnoy-baraban-16",
+  "version": "5.7.9",
+  "describe": "Update: price > baraban 140000 rub",
+  "fix-date": "2026-10-22 : 13:30",
+
 ## v5.7.8 2026-07-09 14:15 - 14:30
 
   "name": "otkatnoy-baraban-16",
